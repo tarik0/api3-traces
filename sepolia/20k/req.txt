@@ -1,0 +1,10 @@
+Deploying contracts with the account: 0x2CFf56F7386669938E3b41B66F0F97641B4A8986
+Chain ID: 84532n
+Deploying MockedRequester...
+MockedRequester deployed to: 0xC1Beb4F2BA14b6ABDf1b6B85682E9Baf696A1062
+Sponsor Wallet: 0xa771f0BcC54E6cc900aed2Cce028b54577B6CF64
+Initializing requester...
+Initial Sponsor Balance: 0.005 ETH
+Initial sponsor balance transferred to: 0xa771f0BcC54E6cc900aed2Cce028b54577B6CF64
+Requesting seed (normal) for 30000 tokens...
+Request receipt: 0x37ecd202b30132961303650710d8c3f7ab44a2b5c7cf0519e70c69ca0e0a2b34
