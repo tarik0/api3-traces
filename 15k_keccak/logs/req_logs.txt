@@ -1,0 +1,11 @@
+Compiled 1 Solidity file successfully (evm target: london).
+Deploying contracts with the account: 0x2CFf56F7386669938E3b41B66F0F97641B4A8986
+Chain ID: 31337n
+Deploying MockedRequester...
+MockedRequester deployed to: 0x2e2c88212086338B68A24Cd03F3a0E57c2713619
+Sponsor Wallet: 0xbC3DceCD238321aa418F3e641C750BeD9A5ee1D5
+Initializing requester...
+Initial Sponsor Balance: 0.005 ETH
+Initial sponsor balance transferred to: 0xbC3DceCD238321aa418F3e641C750BeD9A5ee1D5
+Requesting seed (normal) for 15000 tokens...
+Request receipt: 0xda47f93e4d95298f6b96ea8646ace42f3f613147c7573c31ea195b330212b655

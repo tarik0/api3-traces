@@ -1,0 +1,11 @@
+
+Deploying contracts with the account: 0x2CFf56F7386669938E3b41B66F0F97641B4A8986
+Chain ID: 31337n
+Deploying MockedRequester...
+MockedRequester deployed to: 0xD2E32e3Fe5c3474C9A582204A1B983687Cf1Cf93
+Sponsor Wallet: 0xb623975c3DfEd6C828466F70e5B5ac4DEE9BE816
+Initializing requester...
+Initial Sponsor Balance: 0.005 ETH
+Initial sponsor balance transferred to: 0xb623975c3DfEd6C828466F70e5B5ac4DEE9BE816
+Requesting seed (normal) for 10000 tokens...
+Request receipt: 0xaf9c0a7984b95dd53a42b609cacb2da79446c9d0f1fe89a47c12946862cd0d47
